@@ -1,0 +1,167 @@
+body{
+    background-color: black;
+    background-image: url(../img/fundos.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bodyfort{
+    background-color: black;
+    background-image: url(../img/fortnitefundo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.bodyhalo{
+    background-color: black;
+    background-image: url(../img/haloinfinitfundogrande.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.bodyzelda{
+    background-color: black;
+    background-image: url(../img/Fundozelda.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.bodyfifa{
+    background-color: black;
+    background-image: url(../img/fifa22fundocorreto.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.logo{
+   margin-top: -1%;
+}
+.logo2{
+    margin-top: 10%;
+    width: 50%; 
+    
+}
+.cor{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
+    border-radius: 1.5%;
+
+}
+.botao {
+    background-color:blueviolet;
+    color:white;
+
+}
+
+.botao:hover{
+    background-color: rgb(100, 18, 177);
+    color:white;
+}
+.botao2{
+    background-color: gray;
+}
+.botao2:hover{
+    
+    background-color: rgb(95, 94, 94);
+}
+.login{
+    background-color: blueviolet;
+    opacity:90%;
+    border-radius: 5%;
+    width: 30%;
+    margin:auto;
+    margin-bottom: 9.7em;
+    font-size: 27px;
+}
+.usuario{
+    background-color: blueviolet;
+    opacity:90%;
+    border-radius: 5%;
+    width: 30%;
+    margin:auto;
+    margin-bottom: 4.1em;
+    font-size: 27px;
+}
+
+.halo{
+    margin-top: 13em;
+    margin-left: 3em;
+}
+.margin{
+    margin-bottom: 17em;
+}
+.marginfifa{
+    margin-bottom: 9em;
+}
+.marginfort{
+    margin-bottom: 17em;
+}
+.marginzelda{
+    margin-bottom: 17em;
+}
+
+.fort{
+    margin-top: 13em;
+    margin-left: 3em;
+}
+
+.fifa{
+    margin-top: 27em;
+    margin-left: 2em;
+ }
+
+.zelda{
+    margin-top: 10em;
+    margin-left: 1em; 
+ }
+
+.quadro a img{
+    
+    width: 50%;
+}
+.quadro{
+    color:aliceblue;
+    font-size: 20px;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color:darkgoldenrod;
+}
+.login{ 
+
+    background-color: blueviolet;
+    opacity:90%;
+    border-radius: 5%;
+    width: 30%;
+    margin:auto;
+    margin-bottom: 9.7em;
+    font-size: 27px;
+}
+
+.usuario{
+
+    background-color: blueviolet;
+    opacity:90%;
+    border-radius: 5%;
+    width: 30%;
+    margin:auto;
+    margin-bottom: 4.1em;
+    font-size: 27px;
+
+}
+.letra{
+    color:aliceblue;
+    font-size: 20px;
+    
+
+}
+.redes img{
+    width: 1.5%;
+}
+
+
